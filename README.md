@@ -6,7 +6,6 @@ Seja muito bem-vinda(o) ao meu perfil! 😉
 👩🏽‍💻 Desenvolvedora em formação apaixonada por Tecnologia<br>
 🎓 Estudante de Sistemas de Informação<br>
 🎓 Técnica em Redes de Computadores<br>
-💼 Atuando como dev backend na célula de negócios ***ideyas Innovation*** da [ideyas.it](https://ideyas.it/)<br>
 📚 Busco projetos para colaborar e aprender, explorando o mundo do backend e praticar o front<br>
 🕵🏽‍♀️ Entusiasta de Segurança da Informação/Cybersecurity<br>
 
